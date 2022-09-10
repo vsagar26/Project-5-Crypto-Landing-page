@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Lora:wght@400;500;600;700&family=Montserrat:wght@200;400;500;600;700;800;900&family=Oswald:wght@200;700&family=Poppins&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+    padding: 0;
+    margin: 0%;
+    font-family: Montserrat;
+}
+
+div button{
+    padding: 8px 16px;
+    margin: 20px 20px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: #cc00d7;
+    color: #fff;
+    border-radius: 6px;
+    border-width: 0;
+
+}
+
+div section nav{
+display: flex;
+background-color: #000;
+color:#fff ;
+padding: 8px 20px;
+
+}
+
+div ul{
+    margin-left: 100px;
+}
+div ul li{
+    
+    padding: 14px 16px;
+    margin: 10px 10px;
+    
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    
+}
+
+div img{
+    height: 40px;
+    padding: 10px 10px;
+    margin-left: 50px;
+}
+
+.button-small{
+    margin-left: 400px;
+}
+
+.line{
+    background-color: #fff;
+    width: 1px;
+    height: 42px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+h1{
+    font-size: 64px;
+    font-weight: 700;
+    color: #ffffff;
+    width: 900px;
+    text-align: center;
+    word-spacing: 4px;
+    
+}
+
+p{
+    font-size: 22px;
+    color: #ffffff;
+    font-weight: 500;
+    width: 1000;
+    top: 200px;
+    left: 200px;
+    /* text-align: center; */
+}
+
+.button-large{
+    font-size: 18px;
+    padding: 14px 26px;
+    font-weight: 600;
+
+}
+
+body{
+    background-image: url("./assets/bg.png");
+    background-repeat: no-repeat;
+    height: 880px;
+    background-size: 1560px 880px;
+    
+}
+
+div section .hero .hero-heading{
+
+    margin-top: 160px;
+    margin-left: 350px;
+}
+
+div section .hero .hero-description{
+    margin-top: 14px;
+    margin-left: 550px;
+}
+
+ .button-large{
+    margin-top: 50px;
+    margin-left: 670px;
+}
+
+
